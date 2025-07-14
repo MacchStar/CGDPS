@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks, unless listed in the accepted hacks list (https://docs.google.com/document/d/1QKV7ZsbNDo9eJlLtMdhYiG2ud5RcNg8PGT93H0R7JO4/edit?usp=sharing)
+                        Achieved the record without using hacks, unless listed in the accepted hacks list (See "Permitted Hacks" list)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
